@@ -1,7 +1,8 @@
-package bupt.dianxin.gmall.user.service;
+package bupt.dianxin.gmall.api.service;
 
-import bupt.dianxin.gmall.user.bean.UmsMember;
-import bupt.dianxin.gmall.user.bean.UmsMemberReceiveAddress;
+
+import bupt.dianxin.gmall.api.bean.UmsMember;
+import bupt.dianxin.gmall.api.bean.UmsMemberReceiveAddress;
 
 import java.util.List;
 

@@ -1,10 +1,10 @@
 package bupt.dianxin.gmall.user.service.impl;
 
-import bupt.dianxin.gmall.user.bean.UmsMember;
-import bupt.dianxin.gmall.user.bean.UmsMemberReceiveAddress;
+import bupt.dianxin.gmall.api.bean.UmsMember;
+import bupt.dianxin.gmall.api.bean.UmsMemberReceiveAddress;
 import bupt.dianxin.gmall.user.mapper.UmsMemberReceiveAddressMapper;
 import bupt.dianxin.gmall.user.mapper.UserMapper;
-import bupt.dianxin.gmall.user.service.UserService;
+import bupt.dianxin.gmall.api.service.UserService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

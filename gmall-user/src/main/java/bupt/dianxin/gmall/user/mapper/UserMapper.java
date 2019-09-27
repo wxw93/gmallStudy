@@ -1,6 +1,7 @@
 package bupt.dianxin.gmall.user.mapper;
 
-import bupt.dianxin.gmall.user.bean.UmsMember;
+
+import bupt.dianxin.gmall.api.bean.UmsMember;
 import tk.mybatis.mapper.common.Mapper;
 
 import java.util.List;

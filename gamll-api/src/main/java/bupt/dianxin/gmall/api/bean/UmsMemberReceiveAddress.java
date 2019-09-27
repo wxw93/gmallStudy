@@ -1,4 +1,4 @@
-package bupt.dianxin.gmall.user.bean;
+package bupt.dianxin.gmall.api.bean;
 
 import javax.persistence.Id;
 import java.io.Serializable;

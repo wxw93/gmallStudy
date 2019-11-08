@@ -16,7 +16,7 @@ import java.util.List;
 public class UserController {
 
     @Reference
-    private UserService userService;
+    UserService userService;
 
     //获取用户所有收货地址
     @RequestMapping("/getAllReceiveAddress")
